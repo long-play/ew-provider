@@ -5,7 +5,7 @@
   "description": "The Web Interface of an Oracle for the Platform for service of digital willing",
   "keywords": [],
   "dependencies": {
-    "async": "2.0.1",
+    "async": "3.2.2",
     "elliptic": "^6.4.1",
     "eth-lib": "^0.2.8",
     "ethereumjs-util": "^5.2.0",
